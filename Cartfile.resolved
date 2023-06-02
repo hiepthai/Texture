@@ -1,4 +1,4 @@
-github "SDWebImage/libwebp-Xcode" "1.2.1"
+github "SDWebImage/libwebp-Xcode" "1.2.4"
 github "shimastripe/PINCache" "3.0.3-xcframework"
 github "shimastripe/PINOperation" "1.2.1-xcframework"
 github "shimastripe/PINRemoteImage" "3.0.3-xcframework"
